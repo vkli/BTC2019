@@ -12,8 +12,11 @@ basically
 
 5
 specifically lack of centralized politics, architecture, logic…
+
 by “no” we mean every
+
 Are blockchains 1) politically 2) architecturally 3) logically decentralized?
+
 (answer is in the Opolis off-white-paper)
 
 6
@@ -24,10 +27,15 @@ DAICOs are something between a DAO and an ICO
 
 8
 the blockchain that started it all: Bitcoin (2009)
+
 (cryptocurrency started in 1998)
+
 open source != decentralized
+
 Is Bitcoin a DAO? 
+
 What makes Bitcoin (including all its soft/hard forks) fully decentralized is: users decide which version to use
+
 You can think of all the blockchains as hard forks of each other (cryptocurrency as a hard fork of fiat)
 
 9
@@ -38,17 +46,23 @@ Was started in response to the organization problem among blockchain orgs
 
 11
 How do we decide how we make decisions?
+
 Democracy is ~300 years old, we’re still using today
+
 What’s wrong with this picture
+
 Tyranny of the majority
+
 Liken to Web1.0 (commercial only)
 
 12
 Upgrade to digital democracy
+
 Web2.0 is about individuals, social media, startups, etc.
 
 13
 Web3
+
 What’s it gonna look like? So far…
 
 15
@@ -59,8 +73,11 @@ The mathematical proof is not so important as the fact that deterministic voting
 
 18
 Each person gets equal number of voice tokens
+
 For each proposal: N^2 voice tokens = N votes
+
 100 tokens = (10,0,0,0) or (5,5,5,5) or (1,1,…,1)…
+
 Is this manipulable?
 
 19
@@ -68,7 +85,9 @@ When do policies become law and payments happen?
 
 20
 To achieve non-manipulability, we must think outside the definition of deterministic voting schemes as defined by Gibbard. 
+
 Inspired by approval voting/quadratic voting/futarchy, these solutions: 1) are continuous 2) satisfy all voters 3) don’t require enforcement. 
+
 Can combine with Merit Signaling resource allocation for decision-making and funding.
 
 21
@@ -79,13 +98,18 @@ financing decentralization
 
 23
 It is totally possible to have an economy without inflation if goods/$ = 1/ ($/goods)
+
 Current: not sustainable
 
 24
 Goal: sustainability
+
 What makes crypto different from fiat is…
+
 Thanks to the work of various individuals and institutions, we are living in an increasingly transparent world :)
+
 Merit: at any given time, any given individual has different merit in different areas
+
 (it does NOT mean we label one person as "meritorious," another as "bad")
 
 26
@@ -105,6 +129,7 @@ Inspired by mechanism design and conviction voting
 
 32
 Microsoft bundled IE during the browser wars, which the US govt deemed monopolistic and unsuccessfully tried to prohibit
+
 Compare to today’s copyright and monopoly disputes, and what they’ve actually done for rights and innovation
 
 33
@@ -116,6 +141,7 @@ not for land usage
 
 35
 A: There is always a 3rd choice (1. house only 2. highway only 3. house in highway, highway in house, none of the above)
+
 And in a decentralized world, anyone can propose anything at anytime
 
 36
