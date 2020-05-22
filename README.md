@@ -1,3 +1,7 @@
+## Video
+
+https://youtu.be/4IZB5tL7Pd8
+
 ## Description
 
 It's kind of weird presenting this at a (central) conference for certification (by a central authority), but how do we decentralize the organizations that are decentralizing our currencies, apps, and, well, organizations? Whether it's a blockchain like Ethereum, your startup, or an organization like this conference, decisions have to be made and funds have to be managed somehow, preferably fairly and without single-point-of-failure. I (attempt to) collect all the various solutions that exist and summarize them, and combine all of them into a working solution.
